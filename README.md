@@ -30,6 +30,6 @@
   -- [ Method #7: Reddit, https://www.reddit.com/user/snipcola ] --
   -- [ Method #8: Twitch, https://www.twitch.tv/snipcola ] --
   -- [ Method #9: Steam, https://steamcommunity.com/id/snipcolayt ] --
-  -- [ Method #10: Skype, snipcola OR live:snipcola ] --
+  -- [ Method #10: Skype, snipcola OR live:snipcola ] -- 
 
 -- [ © 2020, Snipcola, Inc. All rights reserved ] --
