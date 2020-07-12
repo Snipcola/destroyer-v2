@@ -1,0 +1,2 @@
+python destroyer.py
+pause
