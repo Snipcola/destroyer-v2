@@ -1,7 +1,7 @@
 -- [ Use this at your own risk. By using Destroyer V2, you fully acknowledge that consequences may be heading your way if you use this with bad intent or maliciously. (Yes, it's made for that kind of thing but this is just a warning.) ] --
 
 -- [ How to use ] --
-  -- [ Step #1: Install python from https://python.org ] --
+  -- [ Step #1: Install python from https://python.org & when installing check 'ADD PYTHON (VERSION) TO PATH' ] --
   -- [ Step #2: Run setup.bat ] --
   -- [ Step #3: Edit 'bot-config.json' and 'fill it out' ] --
   -- [ Step #4: Double-click destroyer.py ] --
