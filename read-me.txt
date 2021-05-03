@@ -5,7 +5,6 @@
   -- [ Step #2: Run setup.bat ] --
   -- [ Step #3: Edit 'bot-config.json' and 'fill it out' ] --
   -- [ Step #4: Double-click destroyer.py ] --
-  -- [ (OPTIONAL) Step #5: Subscribe to https://youtube.com/snipcola for discord 'cheats' and more ] --
 
 -- [ Commands ] --
   -- [ help: Shows a help 'menu' inside of the console ] --
@@ -19,17 +18,3 @@
   -- [ delroles: This deletes every single role ] --
   -- [ massping: This pings everyone in every single channel ] --
   -- [ cls: This clears the console ] --
-
--- [ Contact Us ] --
-  -- [ Method #1: Website, https://snipcola.xyz/contact ] --
-  -- [ Method #2: Discord Server, https://discord.gg/aMS8GCT ] --
-  -- [ Method #3: Discord Account, Snipcola#0001 (ID: 707566413262487592) ] --
-  -- [ Method #4: Email, admin@snipcola.xyz ] --
-  -- [ Method #5: YouTube, https://youtube.com/snipcola ] --
-  -- [ Method #6: Twitter, https://twitter.com/snipcola ] --
-  -- [ Method #7: Reddit, https://www.reddit.com/user/snipcola ] --
-  -- [ Method #8: Twitch, https://www.twitch.tv/snipcola ] --
-  -- [ Method #9: Steam, https://steamcommunity.com/id/snipcolayt ] --
-  -- [ Method #10: Skype, snipcola OR live:snipcola ] --
-
--- [ © 2020, Snipcola, Inc. All rights reserved ] --
